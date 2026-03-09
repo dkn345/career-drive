@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 Career Drive is a career-planning application designed to help developers and tech professionals successfully pivot to new skillsets. Instead of generic tutorials, the app generates a personalized roadmap that assess current viability, critical skill gaps, and provides a concrete 90 day execution plan.
 
  Key Features
@@ -14,6 +12,9 @@ Curated Watchlists & Crucial Concepts: Bypasses tutorial hell by providing speci
 Capstone Practice Scenarios: Generates custom mock challenges (e.g., building a role-based Product Catalog API) to rigorously test job readiness.
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
 
 First, run the development server:
 
