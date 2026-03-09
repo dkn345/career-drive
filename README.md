@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Career Drive is a career-planning application designed to help developers and tech professionals successfully pivot to new skillsets. Instead of generic tutorials, the app generates a personalized roadmap that assess current viability, critical skill gaps, and provides a concrete 90 day execution plan.
+
+ Key Features
+Pivot Readiness Scoring: Calculates an overall assessment score (ex 70/100) of the user's transition viability based on their current foundation, alongside a projected trajectory graph for 30, 60, and 90-day milestones.
+
+Intelligent Gap Analysis: Pinpoints high-severity "Core Skill Gaps" and conceptual "Blind Spots & Risks" to prevent users from learning outdated tech or missing architectural fundamentals.
+
+90-Day Execution Roadmaps: Generates granular, time-bound tasks segmented into 30, 60, and 90-day sprints, complete with hour estimates and milestone projects.
+
+Curated Watchlists & Crucial Concepts: Bypasses tutorial hell by providing specific video timestamps and listing the exact concepts needed to pass technical interviews.
+
+Capstone Practice Scenarios: Generates custom mock challenges (e.g., building a role-based Product Catalog API) to rigorously test job readiness.
+
 ## Getting Started
 
 First, run the development server:
